@@ -55,9 +55,9 @@ export default function About() {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
 
             <p className="mb-8 leading-relaxed">
-            I'm an Embedded Systems Engineer, currently looking for full time opportunities to develop my skill set in my related field.
-            I take pride in my commitment to solving every problem from the first principles of physics. I'm well versed in Firmware Development, Robotics and Control Algorithms. I'm also an Enthusiast in Custom SOC Design. 
-            Lastly, I'm passionately interested in the empowerment of sub saharan Africa and other third world countries.
+            I'm an Embedded Systems Engineer, currently looking for full time opportunities to leverage my skill set in my related field.
+            I take pride in my commitment to solving every problem from the first principles of physics and computer science. I'm well versed in Firmware Development, Robotics and Control Algorithms. I'm also an Enthusiast in Custom SOC Design. 
+            Lastly, I'm passionately interested in the empowerment of sub saharan Africa and other developing countries.
             </p>
           </div>
           <div className=" carousel lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
