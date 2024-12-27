@@ -55,9 +55,9 @@ export default function About() {
     return (
       <section id="about">
         <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center text-white">
 
-            <p className="mb-8 leading-relaxed">
+            <p className="mb-12 leading-relaxed">
             On weekdays, I make peoples lives esier though cheap and reliable energy, by imbuing intellingence in renewable systems, both municipal and mobile. I'm an embedded firmware engineer and C, Python and Rust are my trusty tools. 
             On weekends, I aide peoples mental health at scale. I do this by enabling them to feel the full range of human emotion through music and poetry. I Dj with an Afrobeats base, fused with genres from EDM to J-pop to Country  
             Lastly, I'm passionately interested in the empowerment of Sub Saharan Africa and other developing countries through direct philantropy. I founded a charity that brings togehter people of generosity and intellignece to make lasting difference in deserving communities
