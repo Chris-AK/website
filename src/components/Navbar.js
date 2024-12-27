@@ -7,7 +7,7 @@ const navigation = [
     { name: "Chris AK", href: "https://linktr.ee/chris_ak"},
     { name: "Thinking", href: "https://chrisak.medium.com/" },
     { name: "Building", href: "https://github.com/Chris-AK/"},
-    { name: "Creating", href: "https://opensea.io/collection/snappoetry/"},
+    { name: "Creating", href: "https://on.soundcloud.com/zqsUmn726FoHA7336/"},
     { name: "Supporting", href: "https://us.movember.com/"},
   ];
 
