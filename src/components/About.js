@@ -58,7 +58,7 @@ export default function About() {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center text-white">
 
             <p className="mb-12 leading-relaxed">
-            On weekdays, I make peoples lives easier through cheap and reliable energy. I do this by imbuing intelligence into renewable energy systems, from mobile and municipal size. I'm an embedded firmware engineer, and embedded C, Python and Rust are my trusty tools. 
+            On weekdays, I make peoples lives easier through cheap and reliable energy. I do this by imbuing intelligence into renewable energy systems, from mobile to municipal size. I'm an embedded firmware engineer, and embedded C, Python and Rust are my trusty tools. 
             On weekends, I aide peoples mental health, at scale. I enable them to feel the full range of human emotions through music and poetry. I dj with an Afrobeats base, fused with genres from EDM to J-pop to Country  
             Lastly, I'm passionately interested in the empowerment of Sub Saharan Africa and other developing countries through direct philantropy. I founded a charity that brings togehter people of generosity and intellignece to make lasting difference in deserving communities
             </p>
